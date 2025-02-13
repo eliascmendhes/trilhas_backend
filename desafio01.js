@@ -23,7 +23,7 @@ if (temperatura > 25) {
 }
 
 // 5. Crie uma variável idade e atribua um valor. Se a pessoa for maior de idade (18 ou mais), exiba "Você é maior de idade". Caso contrário, exiba "Você é menor de idade".
-let idadePessoa = 20; // Altere o valor para testar
+let idadePessoa = 20;
 if (idadePessoa >= 18) {
   console.log("Você é maior de idade");
 } else {
@@ -32,7 +32,7 @@ if (idadePessoa >= 18) {
 
 // 6. Crie uma variável chamada nota e atribua um valor entre 0 e 10.
 // Se a nota for maior ou igual a 7, exiba "Aprovado". Se for entre 5 e 6, exiba "Recuperação". Caso contrário, exiba "Reprovado".
-let nota = 6; // Valor entre 0 e 10
+let nota = 6; 
 if (nota >= 7) {
   console.log("Aprovado");
 } else if (nota >= 5 && nota <= 6) {
